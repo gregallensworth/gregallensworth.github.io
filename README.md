@@ -1,2 +1,3 @@
 # gregallensworth.github.io
-Pages for demos etc
+
+This site will host pages pertinent to my other repositories, e.g. demos of Leaflet plugins.
